@@ -1,0 +1,1 @@
+console.log("that's my first code in java script")
